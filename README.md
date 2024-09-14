@@ -18,18 +18,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - In my project I had to create an image of my choice using coding i've learned.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - The first thing I am proud of is that I decided to put more time into my project to do the extra credit. The second is that my project looks accurate to what I was trying to create.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would try to make it more organized and more satisfying to watch the painters paint the image if I could do this project differently or had an opportunity to change anything.
